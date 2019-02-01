@@ -1,0 +1,1042 @@
+{
+  "settings": {
+    "name": "Site-02-01_2117",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#222222",
+        "#3c3c3c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.1",
+    "siteFonts": [],
+    "uniqCompNum": 24,
+    "versionPublish": "4.9.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Ваша реклама на столах у сотни тысяч покупателей",
+          "text": "С нами Вы найдете новых клиентов и не потеряете старых...",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Хочу рекламу<br></a> ",
+          "_tags": [
+            "Тема"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": false,
+            "count": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1500552294-musor-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.4"
+          },
+          "header": "Каждый бизнес - это решение проблемы",
+          "items": [
+            {
+              "authorName": "Проблема №1.",
+              "authorBio": "User",
+              "text": "<p>Темпы загрязнения окружающей среды растут в гигантских масштабах . И одной из основных долей общей массы отходов являются бытовые отходы человека. Стоит заметить , что самый опасный вред окружающей среде наносят: батарейки , полиэтиленовые пакеты и пластиковые отходы . Например : срок разложения полиэтилена в почве равен 3600 месяцам. &nbsp;</p><p>Даже после эксплуатации полиэтиленовые пакеты продолжают наносить вред окружающей среде...</p>"
+            },
+            {
+              "authorName": "Проблема №2",
+              "authorBio": "User",
+              "text": "<p>Согласно статистике , около 90% бизнеса закрываются в первый год , и только 3% продолжают работать после трех лет.</p><p>Одной из причин закрытия бизнеса является отсутствие \"лидов\" , т.е. покупателей услуги или товара. Неправильный подход к маркетингу и рекламной кампании в целом рушит бизнес \"в пух\" и \"прах\".</p><p>Ошибочный подход заключен в поиске клиентов через неэффективные каналы распространения рекламы : газеты , тв , постеры и т.д..</p>"
+            },
+            {
+              "authorName": "Решение&nbsp;",
+              "authorBio": "User",
+              "text": "<p>Решение этих двух проблем кроется - в эко-пакетах . А именно в размещении рекламы на эко-пакетах для хлеба .</p><p>Почему именно эко-пакеты для хлеба ?</p><p>Во-первых - срок разложения данных пакетов - 3 месяца , вреда окружающей среде и здоровью человека они не несут , так как делаются из пищевой бумаги.</p><p>Во-вторых - реклама на эко-пакетах для хлеба доставляет информацию о бизнесе до домов потенциальных покупателей . Ведь почти все покупают хлеб и все несут его к себе домой.&nbsp;</p><p>В-третьх - большой тираж данных пакетов в объеме от 10 000 шт. дает широкий охват зрителей рекламы ( 50 000 чел. в среднем) , тем самым повышая спрос на товар или услугу рекламодателя.&nbsp;</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            }
+          ],
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-6",
+          "testimonial": [
+            {
+              "authorName": "Проблема №1.",
+              "authorBio": "User",
+              "text": "<p>Темпы загрязнения окружающей среды растут в гигантских масштабах . И одной из основных долей общей массы отходов являются бытовые отходы человека. Стоит заметить , что самый опасный вред окружающей среде наносят: батарейки , полиэтиленовые пакеты и пластиковые отходы . Например : срок разложения полиэтилена в почве равен 3600 месяцам. &nbsp;</p><p>Даже после эксплуатации полиэтиленовые пакеты продолжают наносить вред окружающей среде...</p>"
+            },
+            {
+              "authorName": "Проблема №2",
+              "authorBio": "User",
+              "text": "<p>Согласно статистике , около 90% бизнеса закрываются в первый год , и только 3% продолжают работать после трех лет.</p><p>Одной из причин закрытия бизнеса является отсутствие \"лидов\" , т.е. покупателей услуги или товара. Неправильный подход к маркетингу и рекламной кампании в целом рушит бизнес \"в пух\" и \"прах\".</p><p>Ошибочный подход заключен в поиске клиентов через неэффективные каналы распространения рекламы : газеты , тв , постеры и т.д..</p>"
+            },
+            {
+              "authorName": "Решение&nbsp;",
+              "authorBio": "User",
+              "text": "<p>Решение этих двух проблем кроется - в эко-пакетах . А именно в размещении рекламы на эко-пакетах для хлеба .</p><p>Почему именно эко-пакеты для хлеба ?</p><p>Во-первых - срок разложения данных пакетов - 3 месяца , вреда окружающей среде и здоровью человека они не несут , так как делаются из пищевой бумаги.</p><p>Во-вторых - реклама на эко-пакетах для хлеба доставляет информацию о бизнесе до домов потенциальных покупателей . Ведь почти все покупают хлеб и все несут его к себе домой.&nbsp;</p><p>В-третьх - большой тираж данных пакетов в объеме от 10 000 шт. дает широкий охват зрителей рекламы ( 50 000 чел. в среднем) , тем самым повышая спрос на товар или услугу рекламодателя.&nbsp;</p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "24px"
+            },
+            ".mbr-reviews__text P": {
+              "color": "#222222"
+            },
+            ".mbr-reviews__text": {
+              "color": "#222222"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-6\">О проекте</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-3\">Как это работает ?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-7\">Прайс-лист</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\">Хочу рекламу</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://www.instagram.com/tubekbaeff/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E c o - j a r n a m a</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Шаг №1",
+                "contentAlign": "left",
+                "text": "Вы подаете заявку на рекламу.<br>Наш агент свяжется с Вами для <br>уточнения&nbsp;данных , размера и<br> предпочтений для Вашей рекламы.<br>Все оформляется официально , с заполнением&nbsp;<br>сопроводительнных документов.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Подать заявку</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#222222"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Шаг №2",
+                "contentAlign": "left",
+                "text": "Мы создаем Вам рекламу.<br>Наши дизайнеры и копирайтеры оформят<br>Вашу рекламу совместив Ваши предпочтения<br>и лучшие идеи маркетинга .<br>Следом Ваша реклама размещается на эко-пакетах для хлеба , общим тиражем 10 000 экземпляров.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Подать заявку</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1421.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Шаг №3<br>",
+                "contentAlign": "left",
+                "text": "Мы размещаем Вашу рекламу.<br>Готовые эко-пакеты с Вашей рекламой будут размещены в торговых точках наших партнеров .<br>Откуда покупатели будут забирать их домой , где в домашнем уюте о Вас узнает каждый член семьи.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Подать заявку</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-3",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "firstType": "hidden",
+            "secondType": "blue",
+            "thirdType": "favorite",
+            "fourthType": "green",
+            "fifthType": "hidden",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1131.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "STANDARD",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "per month",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "Одиночный",
+          "currency2": "тг",
+          "price2": "13к",
+          "period2": "за ячейку",
+          "list2": "<ul><li>размер<b> 63*36 мм.</b></li><li><b>2 268 &nbsp;</b>кв.мм.</li><li>можно оформить <b>несколько ячеек</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"assets/files/merged (pdf.io).pdf\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">посмотреть шаблон</a>",
+          "title3": "Оптимальный",
+          "currency3": "тг",
+          "price3": "35к",
+          "period3": "за ячейку",
+          "list3": "<p>размер <b>94.5*72 мм.</b></p><p><b>6 804</b> кв.мм.</p><p>лучшее соотношние <b>цена/размер</b></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"assets/files/merged (pdf.io) (3).pdf\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">посмотреть шаблон</a>",
+          "title4": "Понтовый",
+          "currency4": "тг",
+          "price4": "30к",
+          "period4": "полная фаланга",
+          "list4": "<p>размер<b> 50*325 мм.</b></p><p><b>16 250 </b>кв.мм.</p><p>отдельно от всех<b> , как король =)</b></p><ul><li></li></ul><p></p>",
+          "button4": "<a data-app-btn=\"true\" href=\"assets/files/merged (pdf.io) (2).pdf\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">посмотреть шаблон</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-7",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#000000"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Реклама должна быть эффективной...",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать рекламу</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-8"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "1"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Написать нам</a>",
+          "text1": "<b>Адрес:</b><br>Казахстан , г.Кызылорда<br>ул.Жахаева 55 , офис №102<br><br><b>Контакты:</b><br>\nEmail: tubekbaeff@gmail.com<br>Телефон: +7 705 729 12 07 (whatsapp)<br>Instagram : @tubekbaeff<br><br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "tube.zh@yandex.ru",
+            "alerts": {
+              "success": "Ваша заявка принята )"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Ваш номер"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Что Вы хотите спросить ?"
+              }
+            }
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-c"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Все права защищены (c) \"Eco-jarnama\" 2019.",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-d"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Page 1",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Ваша реклама на столах у сотни тысяч покупателей",
+          "text": "С нами Вы найдете новых клиентов и не потеряете старых...",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Хочу рекламу<br></a> ",
+          "_tags": [
+            "Тема"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header4-g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": false,
+            "count": "3",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1500552294-musor-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.4"
+          },
+          "header": "Каждый бизнес - это решение проблемы",
+          "items": [
+            {
+              "authorName": "Проблема №1.",
+              "authorBio": "User",
+              "text": "<p>Темпы загрязнения окружающей среды растут в гигантских масштабах . И одной из основных долей общей массы отходов являются бытовые отходы человека. Стоит заметить , что самый опасный вред окружающей среде наносят: батарейки , полиэтиленовые пакеты и пластиковые отходы . Например : срок разложения полиэтилена в почве равен 3600 месяцам. &nbsp;</p><p>Даже после эксплуатации полиэтиленовые пакеты продолжают наносить вред окружающей среде...</p>"
+            },
+            {
+              "authorName": "Проблема №2",
+              "authorBio": "User",
+              "text": "<p>Согласно статистике , около 90% бизнеса закрываются в первый год , и только 3% продолжают работать после трех лет.</p><p>Одной из причин закрытия бизнеса является отсутствие \"лидов\" , т.е. покупателей услуги или товара. Неправильный подход к маркетингу и рекламной кампании в целом рушит бизнес \"в пух\" и \"прах\".</p><p>Ошибочный подход заключен в поиске клиентов через неэффективные каналы распространения рекламы : газеты , тв , постеры и т.д..</p>"
+            },
+            {
+              "authorName": "Решение&nbsp;",
+              "authorBio": "User",
+              "text": "<p>Решение этих двух проблем кроется - в эко-пакетах . А именно в размещении рекламы на эко-пакетах для хлеба .</p><p>Почему именно эко-пакеты для хлеба ?</p><p>Во-первых - срок разложения данных пакетов - 3 месяца , вреда окружающей среде и здоровью человека они не несут , так как делаются из пищевой бумаги.</p><p>Во-вторых - реклама на эко-пакетах для хлеба доставляет информацию о бизнесе до домов потенциальных покупателей . Ведь почти все покупают хлеб и все несут его к себе домой.&nbsp;</p><p>В-третьх - большой тираж данных пакетов в объеме от 10 000 шт. дает широкий охват зрителей рекламы ( 50 000 чел. в среднем) , тем самым повышая спрос на товар или услугу рекламодателя.&nbsp;</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            }
+          ],
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "Проблема №1.",
+              "authorBio": "User",
+              "text": "<p>Темпы загрязнения окружающей среды растут в гигантских масштабах . И одной из основных долей общей массы отходов являются бытовые отходы человека. Стоит заметить , что самый опасный вред окружающей среде наносят: батарейки , полиэтиленовые пакеты и пластиковые отходы . Например : срок разложения полиэтилена в почве равен 3600 месяцам. &nbsp;</p><p>Даже после эксплуатации полиэтиленовые пакеты продолжают наносить вред окружающей среде...</p>"
+            },
+            {
+              "authorName": "Проблема №2",
+              "authorBio": "User",
+              "text": "<p>Согласно статистике , около 90% бизнеса закрываются в первый год , и только 3% продолжают работать после трех лет.</p><p>Одной из причин закрытия бизнеса является отсутствие \"лидов\" , т.е. покупателей услуги или товара. Неправильный подход к маркетингу и рекламной кампании в целом рушит бизнес \"в пух\" и \"прах\".</p><p>Ошибочный подход заключен в поиске клиентов через неэффективные каналы распространения рекламы : газеты , тв , постеры и т.д..</p>"
+            },
+            {
+              "authorName": "Решение&nbsp;",
+              "authorBio": "User",
+              "text": "<p>Решение этих двух проблем кроется - в эко-пакетах . А именно в размещении рекламы на эко-пакетах для хлеба .</p><p>Почему именно эко-пакеты для хлеба ?</p><p>Во-первых - срок разложения данных пакетов - 3 месяца , вреда окружающей среде и здоровью человека они не несут , так как делаются из пищевой бумаги.</p><p>Во-вторых - реклама на эко-пакетах для хлеба доставляет информацию о бизнесе до домов потенциальных покупателей . Ведь почти все покупают хлеб и все несут его к себе домой.&nbsp;</p><p>В-третьх - большой тираж данных пакетов в объеме от 10 000 шт. дает широкий охват зрителей рекламы ( 50 000 чел. в среднем) , тем самым повышая спрос на товар или услугу рекламодателя.&nbsp;</p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "24px"
+            },
+            ".mbr-reviews__text P": {
+              "color": "#222222"
+            },
+            ".mbr-reviews__text": {
+              "color": "#222222"
+            }
+          },
+          "_anchor": "testimonials1-h"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-6\">О проекте</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-3\">Как это работает ?</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-7\">Прайс-лист</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\">Хочу рекламу</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://www.instagram.com/tubekbaeff/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E c o - j a r n a m a</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-i"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Шаг №1",
+                "contentAlign": "left",
+                "text": "Вы подаете заявку на рекламу.<br>Наш агент свяжется с Вами для <br>уточнения&nbsp;данных , размера и<br> предпочтений для Вашей рекламы.<br>Все оформляется официально , с заполнением&nbsp;<br>сопроводительнных документов.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Подать заявку</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#222222"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Шаг №2",
+                "contentAlign": "left",
+                "text": "Мы создаем Вам рекламу.<br>Наши дизайнеры и копирайтеры оформят<br>Вашу рекламу совместив Ваши предпочтения<br>и лучшие идеи маркетинга .<br>Следом Ваша реклама размещается на эко-пакетах для хлеба , общим тиражем 10 000 экземпляров.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Подать заявку</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1421.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Шаг №3<br>",
+                "contentAlign": "left",
+                "text": "Мы размещаем Вашу рекламу.<br>Готовые эко-пакеты с Вашей рекламой будут размещены в торговых точках наших партнеров .<br>Откуда покупатели будут забирать их домой , где в домашнем уюте о Вас узнает каждый член семьи.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Подать заявку</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.3"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "slider-j"
+        },
+        {
+          "_params": {
+            "firstType": "hidden",
+            "secondType": "blue",
+            "thirdType": "favorite",
+            "fourthType": "green",
+            "fifthType": "hidden",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1131.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "STANDARD",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "per month",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "Одиночный",
+          "currency2": "тг",
+          "price2": "13к",
+          "period2": "за ячейку",
+          "list2": "<ul><li>размер<b> 63*36 мм.</b></li><li><b>2 268 &nbsp;</b>кв.мм.</li><li>можно оформить <b>несколько ячеек</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"assets/files/merged (pdf.io).pdf\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">посмотреть шаблон</a>",
+          "title3": "Оптимальный",
+          "currency3": "тг",
+          "price3": "35к",
+          "period3": "за ячейку",
+          "list3": "<p>размер <b>94.5*72 мм.</b></p><p><b>6 804</b> кв.мм.</p><p>лучшее соотношние <b>цена/размер</b></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"assets/files/merged (pdf.io) (3).pdf\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">посмотреть шаблон</a>",
+          "title4": "Понтовый",
+          "currency4": "тг",
+          "price4": "30к",
+          "period4": "полная фаланга",
+          "list4": "<p>размер<b> 50*325 мм.</b></p><p><b>16 250 </b>кв.мм.</p><p>отдельно от всех<b> , как король =)</b></p><ul><li></li></ul><p></p>",
+          "button4": "<a data-app-btn=\"true\" href=\"assets/files/merged (pdf.io) (2).pdf\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">посмотреть шаблон</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#000000"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "pricing-table1-k"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Реклама должна быть эффективной...",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.instagram.com/tubekbaeff/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Заказать рекламу</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "1"
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Написать нам</a>",
+          "text1": "<b>Адрес:</b><br>Казахстан , г.Кызылорда<br>ул.Жахаева 55 , офис №102<br><br><b>Контакты:</b><br>\nEmail: tubekbaeff@gmail.com<br>Телефон: +7 705 729 12 07 (whatsapp)<br>Instagram : @tubekbaeff<br><br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "tube.zh@yandex.ru",
+            "alerts": {
+              "success": "Ваша заявка принята )"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Ваш номер"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Что Вы хотите спросить ?"
+              }
+            }
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-m"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Все права защищены (c) \"Eco-jarnama\" 2019.",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-n"
+        }
+      ]
+    }
+  }
+}
